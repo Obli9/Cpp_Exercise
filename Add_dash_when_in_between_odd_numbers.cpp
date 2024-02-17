@@ -24,7 +24,7 @@ string dashNumber(string numbers){
 
 int main()
 {
-    cout << dashNumber("213421429324") << endl;
+    cout << dashNumber("213421429324") << endl; //enter any number
 
     return 0;
 }
